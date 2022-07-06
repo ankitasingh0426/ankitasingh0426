@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitasingh0426
+- 👋 Hi, I’m Ankita Singh
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web development and app development.
 - 💞️ I’m looking to collaborate on ...
