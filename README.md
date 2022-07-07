@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankita Singh
-- 👀 I’m interested in web development.
+- 👀 I’m currently working on chatbot app.
 - 🌱 I’m currently learning web development and app development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
