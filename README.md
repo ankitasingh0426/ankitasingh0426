@@ -4,7 +4,7 @@ Aspiring Data Scientist / ML Engineer, currently building end-to-end AI systems 
 - 🌱 Learning: Machine Learning, Deep Learning, and applied NLP (LLMs, RAG, vector search)
 - 💡 Interests: Data Science, Machine Learning, LLM-powered applications, and turning messy real-world data into usable insight
 - 🤝 Open to collaborating on data science / ML projects and open-source contributions
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ankita-singh0426/) · [Email]
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ankita-singh0426/) ·
 
 ---
 ### 🛠️ Tech Stack
